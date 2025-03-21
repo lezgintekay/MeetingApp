@@ -4,10 +4,10 @@ namespace MeetingApp.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
             //localhost/home
-            return "home/index";
+            return View("Index");
         }
     }
 }
