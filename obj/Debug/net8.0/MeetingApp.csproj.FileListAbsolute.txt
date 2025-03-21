@@ -23,3 +23,4 @@ C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\MeetingApp\obj\Debug\net8.0\r
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\MeetingApp\obj\Debug\net8.0\MeetingApp.pdb
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\MeetingApp\obj\Debug\net8.0\MeetingApp.genruntimeconfig.cache
 C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\MeetingApp\obj\Debug\net8.0\ref\MeetingApp.dll
+C:\Users\PC\Desktop\aspnetcore-dersleri\MeetingApp\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
